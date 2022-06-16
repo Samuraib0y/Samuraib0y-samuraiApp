@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/123.f6b581d7.chunk.css","mappings":"AAAA,4BAEI,gBAAiB,CADjB,eAEJ","sources":["App-components/Content/Profile/MyPosts/Post/Post.module.css"],"sourcesContent":[".avatarUser img {\r\n    max-width: 200px;\r\n    max-height: 200px;\r\n}"],"names":[],"sourceRoot":""}
