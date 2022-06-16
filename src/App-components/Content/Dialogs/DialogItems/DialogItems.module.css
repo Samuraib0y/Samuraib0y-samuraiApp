@@ -1,0 +1,7 @@
+.dialogUsers a{
+    color: black;
+    text-decoration: none;
+}
+.dialogUsers{
+    grid-area: dU;
+}

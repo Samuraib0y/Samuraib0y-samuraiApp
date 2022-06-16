@@ -1,0 +1,13 @@
+.photo img{
+    width: 150px;
+    height: 150px;
+}
+
+.nameText{
+    font-weight: bold;
+}
+
+.selectedPage {
+    font-weight: bold;
+    color: red;
+}

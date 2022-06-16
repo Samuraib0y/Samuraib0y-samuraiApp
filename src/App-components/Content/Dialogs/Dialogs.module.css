@@ -1,0 +1,12 @@
+.dialogs{
+    display: grid;
+    grid-template-areas:
+    'd1 d2';
+    grid-template-columns: 2fr 8fr;
+    grid-template-rows: 1fr;
+}
+
+.dialogUser img{
+    width: 40px;
+    height: 40px;
+}
