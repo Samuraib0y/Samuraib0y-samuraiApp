@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/https:/samuraiApp/static/css/main.978a92ee.css",
+    "main.js": "/https:/samuraiApp/static/js/main.b5c53e8d.js",
+    "static/css/866.cd8fc38d.chunk.css": "/https:/samuraiApp/static/css/866.cd8fc38d.chunk.css",
+    "static/js/866.693f1024.chunk.js": "/https:/samuraiApp/static/js/866.693f1024.chunk.js",
+    "static/css/123.f6b581d7.chunk.css": "/https:/samuraiApp/static/css/123.f6b581d7.chunk.css",
+    "static/js/123.1310762d.chunk.js": "/https:/samuraiApp/static/js/123.1310762d.chunk.js",
+    "index.html": "/https:/samuraiApp/index.html",
+    "main.978a92ee.css.map": "/https:/samuraiApp/static/css/main.978a92ee.css.map",
+    "main.b5c53e8d.js.map": "/https:/samuraiApp/static/js/main.b5c53e8d.js.map",
+    "866.cd8fc38d.chunk.css.map": "/https:/samuraiApp/static/css/866.cd8fc38d.chunk.css.map",
+    "866.693f1024.chunk.js.map": "/https:/samuraiApp/static/js/866.693f1024.chunk.js.map",
+    "123.f6b581d7.chunk.css.map": "/https:/samuraiApp/static/css/123.f6b581d7.chunk.css.map",
+    "123.1310762d.chunk.js.map": "/https:/samuraiApp/static/js/123.1310762d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.978a92ee.css",
+    "static/js/main.b5c53e8d.js"
+  ]
+}
